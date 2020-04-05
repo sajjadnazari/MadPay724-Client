@@ -22,6 +22,7 @@
             "styles": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
               "src/assets/wp-content/plugins/munza-core/assets/front/css/assets3c21.css",
               "src/assets/wp-content/plugins/munza-core/assets/front/css/vendor/animate3c21.css",
               "src/assets/wp-content/plugins/munza-core/assets/front/css/style3c21.css",
@@ -46,6 +47,11 @@
               "src/assets/wp-content/plugins/munza-core/assets/front/js/vendor/progresscircle.js",
               "src/assets/wp-content/themes/munza/assets/js/script.js"
             ],
+=======
+              "src/styles.css"
+            ],
+            "scripts": [],
+>>>>>>> parent of 6bb6cdc... S03-E04
 =======
               "src/styles.css"
             ],
